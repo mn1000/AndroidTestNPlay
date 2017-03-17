@@ -14,4 +14,12 @@
         tools:showIn="@layout/activity_main"
         tools:context="de.mn1000.testnplay.MainActivity">
 
+    <TextView
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/textView"/>
 </RelativeLayout>
