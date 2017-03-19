@@ -3,4 +3,5 @@
     <string name="app_name">Testen und Spielen</string>
     <string name="title_activity_main">Start</string>
     <string name="hello_world">Hallo Welt!</string>
+    <string name="main_greeting">Das ist eine gute App um zu testen und ein bisschen rumzuspielen.</string>
 </resources>
